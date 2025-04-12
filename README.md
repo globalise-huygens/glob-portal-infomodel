@@ -1,4 +1,8 @@
-# GLOBALISE information model
+# GLOBALISE research portal information model
+
+https://gist.github.com/LvanWissen/ca8e1c0bd8f0ca3018efc549202d47ab
+
+https://github.com/globalise-huygens/nlp-event-detection/wiki
 
 ## Ship
 - GLOB URI:
