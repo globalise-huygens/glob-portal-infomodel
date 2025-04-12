@@ -28,13 +28,13 @@ https://github.com/globalise-huygens/nlp-event-detection/wiki
   - Where
   - Reference (Historical documents?)
 - Ownership
- - Owner
- - From
-   - When
-   - Where
- - To
-   - When
-   - Where
+  - Owner
+  - From
+    - When
+    - Where
+   - To
+     - When
+     - Where
     
 - Annotations ( WebAnnotations with IIIF Image snippets)
 
@@ -78,22 +78,22 @@ https://github.com/globalise-huygens/nlp-event-detection/wiki
   - Reference (Historical documents?)
  
 - Profession
- - What
- - Where
- - When
- - Reference (Historical documents?)
+   - What
+   - Where
+   - When
+   - Reference (Historical documents?)
 
 - Social status
- - What
- - Where
- - When
- - Reference (Historical documents?)
+   - What
+   - Where
+   - When
+   - Reference (Historical documents?)
 
 - Sovereignty
- - What
- - Where
- - When
- - Reference (Historical documents?)
+   - What
+   - Where
+   - When
+   - Reference (Historical documents?)
 
 - Residences
   - When?
