@@ -1,12 +1,10 @@
 # GLOBALISE information model
 
-
 ## Ship
 - GLOB URI:
 - External identifiers:
   - Wikipedia URI
   - DAS number
-- Entity type: "Ship" (?)
 - Ship type:
   - Name (multilingual)
   - Description (multilingual)
@@ -53,7 +51,7 @@
 - External identifiers:
   - Wikipedia URI
   - DAS number
-- Entity type: "Person" (?)
+
 - Preferred name
   - Reference (Historical documents?)
 - Alternative names
@@ -99,7 +97,6 @@
   - Reference (Historical documents?)
 
 - Annotations ( WebAnnotations with IIIF Image snippets)
-
 
 ## Group / Organisation
 
