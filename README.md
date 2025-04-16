@@ -12,7 +12,7 @@ https://github.com/globalise-huygens/nlp-event-detection/wiki
 - Ship type:
   - Name (multilingual)
   - Description (multilingual)
-  - Reference (@lvanwise are this references to historical documents?)
+  - Reference (@lvanwisen are this references to historical documents?)
   - Thesaurus concept (TODO: An example? Include directly?)
 - Preferred name: "Vliegend Hert"
   - Reference (Historical documents?)
