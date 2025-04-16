@@ -4,11 +4,6 @@ https://gist.github.com/LvanWissen/ca8e1c0bd8f0ca3018efc549202d47ab
 
 https://github.com/globalise-huygens/nlp-event-detection/wiki
 
-TODO
-- [] find a cruising altitude to work on the information model
-  - [] make separate pages per object type?
-  - [] use mentions?
-
 ## Ship
 - GLOB URI:
 - External identifiers:
@@ -17,7 +12,7 @@ TODO
 - Ship type:
   - Name (multilingual)
   - Description (multilingual)
-  - Reference ( Historical documents?)
+  - Reference (@lvanwise are this references to historical documents?)
   - Thesaurus concept (TODO: An example? Include directly?)
 - Preferred name: "Vliegend Hert"
   - Reference (Historical documents?)
