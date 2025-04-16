@@ -12,8 +12,8 @@ https://github.com/globalise-huygens/nlp-event-detection/wiki
 - Ship type:
   - Name (multilingual)
   - Description (multilingual)
-  - Reference (Historical documents?)
-  - Thesaurus concept (what is in there? Include directly?)
+  - Reference ( Historical documents?)
+  - Thesaurus concept (TODO: An example? Include directly?)
 - Preferred name: "Vliegend Hert"
   - Reference (Historical documents?)
 - Alternative names: "Vliegend Hart"
@@ -48,7 +48,12 @@ https://github.com/globalise-huygens/nlp-event-detection/wiki
   - Sailors
 
 - Repairs, ect (??)
-  
+
+
+
+
+
+
 ## Person
 
 - GLOB URI:
