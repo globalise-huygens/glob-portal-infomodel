@@ -1,4 +1,4 @@
-## Ship
+# Ship
 
 ![ship](https://github.com/user-attachments/assets/dbd97878-6476-4d4a-b5bc-8c78895f7fd1)
 
@@ -42,8 +42,12 @@
    - Date from
    - Date until
    - Mutiny
-   - Captain
+   - Captain: Namect (reference)
    - Sailors
+     - Name?
+     - Role?
+     - Ect?
+     - Reference to own page
  
  - Repairs, ect (??)
 
