@@ -1,5 +1,3 @@
-# Ship
-
 ![ship](https://github.com/user-attachments/assets/dbd97878-6476-4d4a-b5bc-8c78895f7fd1)
 
 
