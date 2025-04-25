@@ -1,5 +1,4 @@
-
-![ship](https://github.com/user-attachments/assets/75865fb5-851c-46ed-889f-1e731ad3e582)
+![ship](https://github.com/user-attachments/assets/fb78f97b-5631-4f8d-8b58-8753a691379a)
 
  - GLOB URI:
  - External identifiers:
