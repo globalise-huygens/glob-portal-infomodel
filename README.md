@@ -60,6 +60,8 @@ https://github.com/globalise-huygens/nlp-event-detection/wiki
 
 - Annotations ( WebAnnotations with IIIF Image snippets)
 
+## Ship
+
 ![ship](https://github.com/user-attachments/assets/fb78f97b-5631-4f8d-8b58-8753a691379a)
 
  - GLOB URI:
