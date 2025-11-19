@@ -1,7 +1,18 @@
 # GLOBALISE research portal information model
 
-
 [Functional Specification GLOBALISE Portal (Google Doc)](https://docs.google.com/document/d/1WKbLToFRUKc4EBWFn8Q_COz0cTQKa_hYkqOKpmNXrKk/)
+
+## What's missing in the wireframes
+
+Search interface
+- Query expansion interface) (see https://github.com/structs-nl/zoekintranscripties)
+- LLM driven search
+
+Historical document
+- Table of contents
+- Recognized entities in the text (annotations)
+- Recognized entities in the document (structured list)
+
 
 ## Wireframes 20251119
 
