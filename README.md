@@ -16,13 +16,10 @@ Historical document
 
 ## Wireframes 20251119
 
+![Filters with list](https://github.com/user-attachments/assets/53dab691-89eb-4c13-bf5f-4b0d8fa8f4a9)
 
-![Filters with list](https://github.com/user-attachments/assets/0b3afd38-4479-4386-9e0a-e9e9ee2acd21)
-![Filters with map](https://github.com/user-attachments/assets/db05603a-6967-43de-a9e2-13c3d9043d28)
+![Filters with map](https://github.com/user-attachments/assets/78a65796-175a-498b-82f0-41bb5eb126e2)
 
+![Ship](https://github.com/user-attachments/assets/23225259-97b1-461a-993c-461978c5286f)
 
-![Ship](https://github.com/user-attachments/assets/4b0553b0-5bd6-4f5e-9d9f-9a76a5ea8d57)
-
-
-![Historical Document](https://github.com/user-attachments/assets/5294f61b-06f5-4653-a4a6-e168ca8a300e)
-
+![Historical Document](https://github.com/user-attachments/assets/9efb7131-697c-47de-a3e1-5326c9e97ae9)
