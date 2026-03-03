@@ -2,6 +2,19 @@
 
 [Functional Specification GLOBALISE Portal (Google Doc)](https://docs.google.com/document/d/1WKbLToFRUKc4EBWFn8Q_COz0cTQKa_hYkqOKpmNXrKk/)
 
+
+## Search entities 20260303
+
+<img width="1028" height="637" alt="image" src="https://github.com/user-attachments/assets/573004a9-d12e-4625-9ec8-fc5022a5a4d2" />
+
+
+
+## UI components 20260303
+
+
+<img width="1151" height="560" alt="image" src="https://github.com/user-attachments/assets/96357820-68c5-43ed-bd79-3c2b4a4faf43" />
+
+
 ## What's missing in the wireframes
 
 Search interface
